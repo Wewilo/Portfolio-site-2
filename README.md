@@ -2,4 +2,4 @@
 
 New portfolio site 
 
-https://wewilo.github.io/new_site/
+https://wewilo.github.io/Portfolio-site-2/
