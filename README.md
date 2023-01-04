@@ -2,4 +2,4 @@
 
 New portfolio site 
 
-https://wewilo.github.io/Portfolio-site-2/
+https://www.abdulkadircivioglu.dev/
