@@ -25,9 +25,9 @@ ul li a{
 
 
 .mm1 {
-    mask-image: url("../img/Abdulkadir_civioglu.png");
     -webkit-mask-image: url("../img/Abdulkadir_civioglu.png");
     -webkit-mask-repeat: no-repeat;
+    mask-image: url("../img/Abdulkadir_civioglu.png");
     mask-repeat: no-repeat;
     
 }
