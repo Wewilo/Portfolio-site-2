@@ -23,14 +23,14 @@ ul li a{
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-
-.mm1 {
-    -webkit-mask-image: url("../img/Abdulkadir_civioglu.png");
-    -webkit-mask-repeat: no-repeat;
-    mask-image: url("../img/Abdulkadir_civioglu.png");
-    mask-repeat: no-repeat;
-    
+.mm1{
+    background-image: url('../img/abdulkadir-civioglu.png');
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 400px;
 }
+
 
 
 
@@ -46,7 +46,13 @@ ul li a{
         white-space: nowrap;
     }
 
+    
+}
 
+@media screen and (max-width:992px) {
+    .mm1{
+        background-position: center top 20%;
+    }
 }
 
 
